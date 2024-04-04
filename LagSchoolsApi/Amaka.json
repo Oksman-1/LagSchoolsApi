@@ -1,0 +1,27 @@
+[
+  {
+    "studentId": 3,
+    "firstName": "Amaka",
+    "lastName": "Okafor",
+    "className": "JSS3",
+    "sex": 2,
+    "dateOfBirth": "2013-02-25T23:49:52.801",
+    "age": 12,
+    "weight": 41.486,
+    "height": 149.832,
+    "address": "No 18, Majekodunmi Close, Victoria Island, Lagos",
+    "parentsPhoneNumber": "08121459853",
+    "email": "amakaOkas@gmail.com",
+    "stateOfOrigin": "Imo",
+    "lga": "Aboh Mbaise",
+    "nationality": "Nigerian",
+    "dateOfAdmission": "2021-02-25T23:49:52.801",
+    "expectedDateOfGraduation": "2027-02-25T23:49:52.801",
+    "studentRegistrationNumber": "VI/03/VS/013F/16268869/LG",
+    "nationalIdentityNumber": "28652443150",
+    "virtualNationalIdentityNumber": "MX21763599440B1",
+    "studentType": 1,
+    "medicalCondition": 1,
+    "clubAffiliation": 5
+  }
+]

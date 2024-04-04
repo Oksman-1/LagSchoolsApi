@@ -1,0 +1,88 @@
+﻿Add-Migration Setting_up_Db
+
+Update-Database
+
+drop-database
+
+remove-migration
+
+  
+Delete from table_name where Id = 2
+
+Delete from [My_SchoolApi_Test].[dbo].[Schools] where SchoolId = 11
+
+Mapper.CreateMap<ObjectFrom, ObjectTo>()
+    .ConstructUsing(x => new ObjectTo(arg0, arg1, etc));
+
+
+9yrs----28.118kg----133.213cm(52.5'')
+10yrs----31.981kg----138.391cm(54.5'')
+11yrs----36.874kg----143.875cm(56.7'')
+12yrs----41.486kg----149.832cm(59.0'')
+13yrs----55.126kg----157.642cm
+14yrs----60.046kg----160.032cm
+15yrs----64.241kg----169.032cm
+160 cm
+
+
+
+[EnumDataType(typeof(Gender), ErrorMessage = "Please enter a valid gender")]
+
+1988-02-29
+
+https://www.finelib.com/
+
+public enum Sex
+{
+	Male = 1,
+	Female = 2,
+	Other = 3
+}
+
+public enum MedicalCondition
+{
+	Normal = 1,
+	WithCondition = 2,
+	Disabled = 3
+}
+
+public enum StudentType
+{
+	Day = 1,
+	Boarding = 2,
+}
+
+public enum ClubAffiliation
+{
+	JetsClub = 1,
+	ChessClub = 2,
+	BoysBrigade = 3,
+	RedCross = 4,
+	LiteraryAndDebating = 5,
+}
+
+
+public enum SchoolType
+{
+	Day = 1,
+	Boarding = 2,
+	Mixed = 3,
+}
+
+public enum SecurityLevel
+{
+	Excellent = 1,
+	Good = 2,
+	Average = 3,
+	Fair = 4
+}
+
+public enum Classes
+{
+	JSS1 = 1,
+	JSS2 = 2,
+	JSS3 = 3,
+	SS1 = 4,
+	SS2 = 5,
+	SS3 = 6,
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "studentId": 2,
+    "firstName": "Princess",
+    "lastName": "Animakun",
+    "className": "JSS1",
+    "sex": 2,
+    "dateOfBirth": "2015-02-25T23:49:52.801",
+    "age": 10,
+    "weight": 31.981,
+    "height": 138.391,
+    "address": "No 34, Adeleke lane, Victoria Island, Lagos",
+    "parentsPhoneNumber": "08121458974",
+    "email": "animmyy@gmail.com",
+    "stateOfOrigin": "Lagos",
+    "lga": "Oshodi",
+    "nationality": "Nigerian",
+    "dateOfAdmission": "2023-02-25T23:49:52.801",
+    "expectedDateOfGraduation": "2029-02-25T23:49:52.801",
+    "studentRegistrationNumber": "VI/03/VS/003F/16268869/LG",
+    "nationalIdentityNumber": "24510435932",
+    "virtualNationalIdentityNumber": "MX18750076998Q2",
+    "studentType": 1,
+    "medicalCondition": 1,
+    "clubAffiliation": 2
+  }
+]
